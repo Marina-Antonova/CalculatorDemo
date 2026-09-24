@@ -8,6 +8,7 @@ public class Calculator {
         return a - b;
     }
 
+    //Multiply method 
     public double multiply(double a, double b) {
         return a * b;
     }
