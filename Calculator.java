@@ -1,5 +1,6 @@
 public class Calculator {
 
+    //Add method
     public double add(double a, double b) {
         return a + b;
     }
@@ -10,7 +11,7 @@ public class Calculator {
 
     //Multiply method 
     public double multiply(double a, double b) {
-        return a * b;
+        return a - b;
     }
 
     //Divide method with check for zero
@@ -20,5 +21,6 @@ public class Calculator {
         }
 
         return a / b;
+        a = 8;
     }
 }
